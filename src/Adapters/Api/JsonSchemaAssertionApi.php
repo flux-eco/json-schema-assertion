@@ -1,6 +1,6 @@
 <?php
 
-namespace FluxEco\JsonSchemaAssertion\Api;
+namespace FluxEco\JsonSchemaAssertion\Adapters\Api;
 
 use  Flux\Eco\Assert\Core\Ports;
 

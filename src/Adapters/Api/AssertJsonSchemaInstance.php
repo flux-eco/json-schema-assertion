@@ -1,6 +1,7 @@
 <?php
 
-namespace FluxEco\JsonSchemaAssertion\Api;
+namespace FluxEco\JsonSchemaAssertion\Adapters\Api;
+
 
 
 interface AssertJsonSchemaInstance {
