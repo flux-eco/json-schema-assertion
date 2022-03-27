@@ -4,7 +4,7 @@ namespace FluxEco\JsonSchemaAssertion\Api;
 
 use  Flux\Eco\Assert\Core\Ports;
 
-class AssertApi
+class JsonSchemaAssertionApi
 {
     private Ports\AssertService $jsonSchemaService;
 
