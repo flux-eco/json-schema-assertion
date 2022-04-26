@@ -1,10 +1,10 @@
 <?php
 
-namespace FluxEco\JsonSchemaAssertion\Adapters\Api;
+namespace FluxEco\JsonSchemaAssertion\;
 
 
 
-interface AssertJsonSchemaInstance {
+interface JsonSchemaInstance {
     /**
      * Validation succeeds if,
      * for each name that appears in both the instance and as a name within this keyword's value,

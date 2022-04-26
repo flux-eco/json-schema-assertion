@@ -1,12 +1,12 @@
 <?php
 
-namespace Flux\Eco\JsonSchemaAsserters\Adapters\Configs;
+namespace Flux\Eco\JsonSchemaAsserters\Adapters;
 
 use Exception;
 use Flux\Eco\JsonSchemaAsserters\{Core\Ports, Adapters\Models};
 
 
-class Config implements Ports\Configs\Config
+class Outbounds implements Ports\Configs\Config
 {
 
     private Ports\Models\JsonSchemaBuilder $jsonSchemaBuilder;
