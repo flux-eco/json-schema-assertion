@@ -1,10 +1,10 @@
 <?php
 
-namespace FluxEco\JsonSchemaAssertion\Adapters\Api;
+namespace FluxEco\JsonSchemaAssertion;
 
 use  Flux\Eco\Assert\Core\Ports;
 
-class JsonSchemaAssertionApi
+class Api
 {
     private Ports\AssertService $jsonSchemaService;
 

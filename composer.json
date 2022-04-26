@@ -1,7 +1,7 @@
 {
   "name": "flux-eco/json-schema-assertion",
   "description": "Asserts values against a schema definition",
-  "version": "0.0.2",
+  "version": "1.0.0",
   "type": "flux-app",
   "keywords": [
     "flux-eco",
